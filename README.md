@@ -27,6 +27,6 @@ Then run `npm start` in each directory in order:
 To test different property, modify `PROPERTY_NAME` in `consumer/src/consumerContext.ts` file.
 
 ## Example
-![1][docs/1.png]
-![2][docs/2.png]
-![3][docs/3.png]
+1. ![1](docs/1.png)
+2. ![2](docs/2.png)
+3. ![3](docs/3.png)
